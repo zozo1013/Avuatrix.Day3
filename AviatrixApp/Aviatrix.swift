@@ -9,11 +9,20 @@
 import Foundation
 
 class Aviatrix {
+    var author: String
     
-    func start() -> Bool {
-        return true
+    init(pilotName: String){
+        author = pilotName
     }
     
+    
+    var running = false
+    func start() -> Bool {
+        running = true
+        return running
+    }
+    
+  
     func refuel() {
         
     }

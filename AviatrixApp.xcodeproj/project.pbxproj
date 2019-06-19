@@ -62,8 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				502D974C20CDF4C10059F502 /* main.swift */,
-				502D975320CDF54F0059F502 /* Aviatrix.swift */,
 				502D975520CDF55D0059F502 /* AviatrixData.swift */,
+				502D975320CDF54F0059F502 /* Aviatrix.swift */,
 			);
 			path = AviatrixApp;
 			sourceTree = "<group>";
